@@ -19,7 +19,6 @@ class Solution {
             }
         }
         if (stack.isNotEmpty()) return false
-
         return true
     }
 }
